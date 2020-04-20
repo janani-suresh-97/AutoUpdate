@@ -10,7 +10,7 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sat, 18 Feb 2020 22:49:00 +0100</pubDate>
-            <enclosure url="https://github.com/janani-suresh-97/AutoUpdate/blob/master/Tester.exe?raw=true"
+            <enclosure url="https://github.com/janani-suresh-97/AutoUpdate/blob/master/Tester1.exe?raw=true"
                        sparkle:dsaSignature="MEQCICh10SofkNHa5iJgVWDi2O8RBYyN+nxkFEL7u/tBuWboAiB6VOV/WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw=="
                        sparkle:version="1.2"
                        length="0"
