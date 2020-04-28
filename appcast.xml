@@ -7,7 +7,7 @@
         <item>
             <title>Version 0.5</title>
             <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
+                https://github.com/janani-suresh-97/AutoUpdate/blob/master/Context.html
             </sparkle:releaseNotesLink>
             <pubDate>Sat, 18 Feb 2020 22:49:00 +0100</pubDate>
             <enclosure url="https://d3p2cd5sivhhbd.cloudfront.net/AutoApp/Tpulse-0.5.exe"
